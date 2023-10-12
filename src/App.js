@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">Hellow world!</div>;
+  return <div className="text-">Hello Everyone, This is Netflix GPT</div>;
 }
 
 export default App;
